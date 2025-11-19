@@ -1,4 +1,4 @@
-# Ideias para o projeto
+# Ideias para o projeto    
 ----------------------------
 * Home
     Nesta página, falarei sobre mim e meus objetivos, destacando três tópicos: objetivos conquistados, o que estou buscando atualmente e objetivos futuros.
@@ -14,3 +14,5 @@
 
 * Footer
     Disponibilizarei este espaço como indicador dos lugares que utilizei para a construção deste projeto.
+
+  # Em construção
