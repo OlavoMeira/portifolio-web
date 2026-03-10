@@ -8,11 +8,21 @@
     src: url(/portifolio-web/assetes/fonts/neue-machina-regular.otf);
 }
 
-.main{
-    padding: 1rem;
+.contain{
+    margin: 1rem;
+    padding: .5rem;
+    border: 1px solid #fff;
+    border-radius: 1rem;
 }
 
 body{
-    background-color: black;
-    color: #fff;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  /* Cor de base profunda */
+  background-color: #000000; 
+
+background-image: linear-gradient(to right bottom, #ff5e00, #fd6511, #fb6c1d, #f97227, #f77830, #ff7e56, #ff8776, #ff9392, #ffadc3, #f9cae6, #f5e6f9, #ffffff);
+  background-attachment: fixed;
+  background-size: cover;
 }
